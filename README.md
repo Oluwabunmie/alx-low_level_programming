@@ -1,7 +1,7 @@
-Readme file
+readme.md
 /**
 
- * main - Entry point
+ * Repository for eight c programs
 
  *
 
